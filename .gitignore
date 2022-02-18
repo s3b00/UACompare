@@ -29,6 +29,7 @@ junit.xml
 
 # Project specific
 .env
+env.sh
 *.sqlite
 *.sqlite3
 *.db
